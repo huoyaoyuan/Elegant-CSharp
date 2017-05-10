@@ -3,15 +3,15 @@
 ## .NET平台
 
 .NET(dotnet)是Microsoft开发的跨语言运行环境。其在设计之初便以不同编程语言之间的交互为目标，并已实现跨操作系统运行。C#是专门为.NET设计的一种编程语言，并被作为主流语言使用。
-在.NET中，各种语言被编译到一门字节形式的中间语言（CIL/Common Indetermediate Language，旧称MSIL/Microsoft Indetermediate Language)，然后在目标机器上，由一个运行环境（CLR/Common Language Runtime）执行。
+在.NET中，各种语言被编译到一门字节形式的中间语言（CIL/Common Indeterminate Language，旧称MSIL/Microsoft Indeterminate Language)，然后在目标机器上，由一个运行环境（CLR/Common Language Runtime）执行。
 
-与Java的比较|
--|
-历史上，Microsoft曾对Java做出一些私有改动，并导致了和Sun的官司。官司结果是Microsoft放弃对Java的改动，并重新设计一个平台与一门语言，便有了.NET与C#。|
-CIL对应Java Bytecode，CLR对应JVM。|
-.NET包含了大量Microsoft曾经加入Java的私有特性，或其变种。|
-.NET将语言、运行时、标准库明确区分开，并相互独立进行更新。|
-作为操作系统拥有者，Microsoft先着眼于.NET在Windows上的功能与应用性（并已成为Windows操作系统的底层服务），直到后期才在其它操作系统上发布了官方实现；Java则从诞生开始一直在各大操作系统上同步发布。|
+| 与Java的比较 |
+| --- |
+| 历史上，Microsoft曾对Java做出一些私有改动，并导致了和Sun的官司。官司结果是Microsoft放弃对Java的改动，并重新设计一个平台与一门语言，便有了.NET与C#。 |
+| CIL对应Java Bytecode，CLR对应JVM。 |
+| .NET包含了大量Microsoft曾经加入Java的私有特性，或其变种。 |
+| .NET将语言、运行时、标准库明确区分开，并相互独立进行更新。 |
+| 作为操作系统拥有者，Microsoft先着眼于.NET在Windows上的功能与应用性（并已成为Windows操作系统的底层服务），直到后期才在其它操作系统上发布了官方实现；Java则从诞生开始一直在各大操作系统上同步发布。 |
 
 在仅Windows时期，.NET又被称作.NET Framework。后来官方发布了跨平台可用的.NET Core，从此便以.NET作为整个运行时与环境的称呼，而.NET Framework则被视为.NET的一个发行版，在Windows上可用并具有丰富的、与系统集成较紧密的功能。
 
