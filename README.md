@@ -1,3 +1,8 @@
-# My Awesome Book
+# Elegant CSharp
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+一份从0基础开始的C#教程，也适合有其它语言背景的人员学习。
+有基础者可跳过部分章节的主要内容；文中也有与其它语言的区别提示。
+
+主要内容：
+- C#语言特性与风格
+- 强类型面向对象系统，与其基础上的函数式编程
