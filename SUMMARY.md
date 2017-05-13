@@ -4,7 +4,7 @@
 
 * [1.1 背景介绍](chapter1/chapter1-1.md)
 * [1.2 环境配置](chapter1/chapter1-2.md)
-* 1.3 Hello world
+* [1.3 Hello world](chapter1/chapter1-3.md)
 * 1.4 基础类型
 * 1.5 变量声明
 * 1.6 基础运算与运算符
