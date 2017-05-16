@@ -22,6 +22,8 @@
 
 输入命令`dotnet new console`即可创建一个在.NET Core下运行的程序。
 
+输入命令`dotnet restore`对工作文件夹进行初始化。
+
 在该文件夹的右键菜单中选择「Open with Code」，即可在Visual Studio Code中打开该文件夹。（或在其它编辑器中打开文件/文件夹进行编辑）
 
 在Visual Studio Code中按F5，或者左侧边栏的调试->开始调试，便可在Visual Studio Code中运行程序。
